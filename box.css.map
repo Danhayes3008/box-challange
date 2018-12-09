@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAMA,IAAI;EALA,KAAK,EAMQ,KAAK;EALlB,MAAM,EAAE,KAAS;EACjB,gBAAgB,EAII,OAAO",
+"sources": ["box.scss"],
+"names": [],
+"file": "box.css"
+}
